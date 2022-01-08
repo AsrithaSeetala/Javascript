@@ -11,5 +11,7 @@ function changeStyle() {
     var element1 = paragraph[0].innerHTML="";
     var element2 = paragraph[1].innerHTML="";
     var element3 = paragraph[2].innerHTML="";
+    
+    document.getElementById("test").style.visiblity="hidden";
 
 }
