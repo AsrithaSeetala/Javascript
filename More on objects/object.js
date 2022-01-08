@@ -1,5 +1,5 @@
 function changePage() {
 
-    window.location="newobject.html";
+    window.location="new object.html";
 
 }
